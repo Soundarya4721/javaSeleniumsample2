@@ -18,6 +18,7 @@ public class CallDriverClass {
 		public static void closedriver() {
 			
 			driver.quit();
+			//it closes the driver
 			
 		}
 		
